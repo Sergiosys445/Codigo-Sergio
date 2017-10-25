@@ -6,6 +6,7 @@ namespace Fibonacci_Solucion
     class Program
     
     {
+    
         static void Main(string[] args)
         
         
@@ -32,12 +33,17 @@ namespace Fibonacci_Solucion
             for (int i = 0; i < numero; i++)
             {
                 serie = x;
+                
                 x = y;
+                
                 y = serie + x;
+                
                 numero = x;
+                
                 Console.WriteLine(x);  //Lo muestra directamente en a funcion
             }
             Console.ReadKey();
+            
             return numero;     //Retorna sin sentido para que termine la funcion
           
         }
