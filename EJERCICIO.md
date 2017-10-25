@@ -1,9 +1,8 @@
 # Codigo-Sergio
 A continuacion estaran los ejercicios:
-Como por ejemplo la serie de fibonacci mediante funciones en c#
+Como por ejemplo la serie de fibonacci mediante funciones en c#.
+
 using System;
-
-
 namespace Fibonacci_Solucion
 {
     class Program
