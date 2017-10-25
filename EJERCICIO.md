@@ -3,6 +3,7 @@
 namespace Fibonacci_Solucion
 
 {
+
     class Program
     
     {
@@ -40,11 +41,11 @@ namespace Fibonacci_Solucion
                 
                 numero = x;
                 
-                Console.WriteLine(x);  //Lo muestra directamente en a funcion
+                Console.WriteLine(x);  //Muestra la serie directamente en la funcion
             }
             Console.ReadKey();
             
-            return numero;     //Retorna sin sentido para que termine la funcion
+            return numero;     //Retorna la variable que se ingreso para que termine la funcion
           
         }
       }
