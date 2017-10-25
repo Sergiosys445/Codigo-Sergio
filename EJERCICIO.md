@@ -18,7 +18,6 @@ namespace Fibonacci_Solucion
             int x = 0;
             int y = 1;
             int serie;   
-
             for (int i = 0; i < numero; i++)
             {
                 serie = x;
@@ -31,7 +30,5 @@ namespace Fibonacci_Solucion
             return numero;     //Retorna sin sentido para que termine la funcion
           
         }
-
       }
-
     }
