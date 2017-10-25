@@ -1,3 +1,3 @@
 # Codigo-Sergio
-En este repositorio estará el código de los diferentes ejercicios hechos en casa.
+A continuacion estaran los ejercicios:
 Como por ejemplo la serie de fibonacci mediante funciones en c#
